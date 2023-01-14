@@ -23,7 +23,9 @@ Copyright (c) 2021-2023 PayInnov
 
 This plugin requires the following:
 
-* [WooCommerce](https://https://woocommerce.com/) 1.6..
+* [Wordpress](https://wordpress.org/) Version 1.6...
+
+* [WooCommerce](https://woocommerce.com/) Version 7.2..
 * A PayInnov merchant account 
 
 # How to install Payliko payment plugin in WooCommerce
