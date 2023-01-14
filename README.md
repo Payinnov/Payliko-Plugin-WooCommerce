@@ -1,7 +1,7 @@
 # Payliko payment plugin for WooCommerce
 
 <p align="center">
-  <img alt="logo" src="./payinnov_plugin/assets/Payliko.svg" width="50%" />
+  <img alt="logo" src="./assets/Payliko.svg" width="50%" />
 </p>
 Copyright (c) 2021-2023 PayInnov
 <br>
