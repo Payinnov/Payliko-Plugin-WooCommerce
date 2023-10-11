@@ -1,4 +1,4 @@
-# Payliko payment plugin for WooCommerce
+# Payinnov payment plugin for WooCommerce
 
 <p align="center">
   <img alt="logo" src="./assets/Payliko.svg" width="50%" />
@@ -28,7 +28,7 @@ This plugin requires the following:
 * [WooCommerce](https://woocommerce.com/) Version 7.2..
 * A PayInnov merchant account 
 
-# How to install Payliko payment plugin in WooCommerce
+# How to install Payinnov payment plugin in WooCommerce
 
  - Backup your database before installing plugins. Please make sure you create backups.
  - Download the file payinnov_plugin.zip
@@ -42,13 +42,13 @@ When the installation is completed:
 
  - Enable the plugin.
  - Go to **Plugins** / **Installed Plugins**.
-   Activate the "Payliko payment WooCommerce"
+   Activate the "Payinnov payment WooCommerce"
 
  - Go to your WordPress admin panel **WooCommerce** / **Settings**.
-   In the **Payments** tab of the Payliko plugin, you can **Manage** the parameters enter your Retailer credentials a Payliko administrator password and then click **Save changes**.
+   In the **Payments** tab of the Payinnov plugin, you can **Manage** the parameters enter your Retailer credentials a Payinnov administrator password and then click **Save changes**.
 
 ## API credentials
-To create a new Retailer' certificate, you should sign up as a Business account in the <a href="https://payliko.com/#/signup">PayLiko Dashboard</a>, then go to the CMS page, and copy the uuid string.
+To create a new Retailer' certificate, you should sign up as a Business account in the <a href="https://payliko.com/#/signup">Payinnov Dashboard</a>, then go to the CMS page, and copy the uuid string.
 
 <p>
   <img
